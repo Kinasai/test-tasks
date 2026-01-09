@@ -1,4 +1,4 @@
-# Balance Management API
+# Task Management API
 
 #### Простое API приложение для управления задачами.
 
